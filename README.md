@@ -2,4 +2,4 @@
 
 * [Sentinel hub](sentinel-hub/)
 * [Euro Data Cube](edc/)
-* Appears
+* [Appears](appears/)
