@@ -1,5 +1,5 @@
 # Satellite Data Extraction
 
-* Sentinel hub
-* EDC
+* [Sentinel hub](sentinel-hub/)
+* [Euro Data Cube](edc/)
 * Appears
