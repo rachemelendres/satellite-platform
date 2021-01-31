@@ -10,8 +10,8 @@
 
 **Datasets can be downloaded in CSV format and available up to provincial level**
 
-![3](https://github.com/rachemelendres/satellite-platform/blob/main/jaxa-jasmin/3.png)
+![3](https://github.com/rachemelendres/satellite-platform/blob/main/jaxa-jasmin/4.png)
 
 **Maps**
 
-![4](https://github.com/rachemelendres/satellite-platform/blob/main/jaxa-jasmin/4.png)
+![4](https://github.com/rachemelendres/satellite-platform/blob/main/jaxa-jasmin/3.png)
