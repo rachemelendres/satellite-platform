@@ -8,4 +8,4 @@
 
 # Data Preprocessing
 
-* Raster2xyz - convert Geotiff image to CSV
+* Raster2xyz - convert GeotTIFF image to CSV
