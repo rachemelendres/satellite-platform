@@ -19,3 +19,5 @@ out_csv = "/tmp/out_xyz.csv"
 rtxyz = Raster2xyz()
 rtxyz.translate(input_raster, out_csv)
 ```
+
+**A use-case of the module can be found [here](convert_geotiff_csv.ipynb/)**
