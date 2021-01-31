@@ -8,7 +8,7 @@ Raster2xyz is a python module that converts the individual pixel values and coor
 pip install raster2xyz
 ```
 
-## Execut
+## Execute
 
 ```
 from raster2xyz.raster2xyz import Raster2xyz
